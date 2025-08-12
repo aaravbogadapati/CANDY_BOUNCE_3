@@ -66,5 +66,5 @@
     "explorer.fileNesting.patterns": {
         "*.sln": "*.csproj"
     },
-    "dotnet.defaultSolution": "CANDY_BOUNCE_2.sln"
+    "dotnet.defaultSolution": "CANDY_BOUNCE_3.sln"
 }
